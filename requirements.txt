@@ -1,0 +1,10 @@
+setuptools
+numpy<2.0.0
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyterlab
+streamlit
+joblib
+altair
